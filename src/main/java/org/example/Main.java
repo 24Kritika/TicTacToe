@@ -10,7 +10,7 @@ public class Main {
         if(winner.equals("tie")){
             System.out.println("Its a tie.");
         }else{
-            System.out.println("Congratulations! "+winner);
+            System.out.println("Winner is "+winner);
         }
     }
 }
